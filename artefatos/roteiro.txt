@@ -3,8 +3,9 @@
 
 **Abertura:**
 - [Música de abertura animada e temática]
-- Locutor 1 (L1): "Salve, salve, nerds! Bem-vindos a mais um podcast!"
+- Locutor 1 (L1): "Salve, salve, galera! Bem-vindos a mais um podcast!"
 - Locutor 2 (L2): "É isso aí, galera! Hoje vamos mergulhar nos hobbies mais fascinantes que existem!"
+- Locutor 1/2 (L1 L2): "Então vem com a gente porque esse papo está imperdível!"
 
 **Introdução ao tema:**
 - L1: "Cara, todo mundo tem aquele hobby que ama, seja ele comum ou super diferente, né?"
@@ -17,7 +18,7 @@
 - L2: "Com certeza! Aliás, você já leu 'Duna'? É um clássico imperdível!"
 
 **Segmento 2: Hobbies criativos**
-- L1: "Mas não é só de jogos e livros que vive nós vivemos. Tem muita gente que se aventura nos hobbies criativos, tipo escrever, desenhar, ou até mesmo pintar miniaturas de Warhammer."
+- L1: "Mas não é só de jogos e livros que nós vivemos. Tem muita gente que se aventura nos hobbies criativos, tipo escrever, desenhar, ou até mesmo pintar miniaturas de Warhammer."
 - L2: "Sim! Pintar miniaturas é um passatempo que exige paciência e talento. E no final, você tem uma coleção personalizada e incrível."
 - L1: "E a escrita também é um hobby muito bacana. Quantos autores começaram suas carreiras escrevendo fanfics ou pequenos contos?"
 
