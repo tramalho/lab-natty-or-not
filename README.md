@@ -25,7 +25,10 @@ Com as vozes sintetizadas, foi efetuada a montagem e edição utilizando o "Desc
 
 ## 🚀 Resultados
 
-https://github.com/tramalho/lab-natty-or-not/blob/main/artefatos/podcast/Podecast%20DIO.wav
+
+
+https://github.com/tramalho/lab-natty-or-not/assets/843974/78180085-3ba2-4144-9e5e-9b7bc751844e
+
 
 
 ## 💭 Reflexão
