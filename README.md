@@ -25,7 +25,7 @@ Com as vozes sintetizadas, foi efetuada a montagem e edição utilizando o "Desc
 
 ## 🚀 Resultados
 
-
+O pocast pode ser ouvido no player abaixo ou então baixado [aqui](https://github.com/tramalho/lab-natty-or-not/tree/main/artefatos/podcast)
 
 https://github.com/tramalho/lab-natty-or-not/assets/843974/78180085-3ba2-4144-9e5e-9b7bc751844e
 
