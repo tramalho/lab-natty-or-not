@@ -25,8 +25,8 @@ Com as vozes sintetizadas, foi efetuada a montagem e edição utilizando o "Desc
 
 ## 🚀 Resultados
 
+https://github.com/tramalho/lab-natty-or-not/blob/main/artefatos/podcast/Podecast%20DIO.wav
 
-[LINK PARA O PODCAST AQUI](https://share.descript.com/view/M03cnyXWMnZ)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
